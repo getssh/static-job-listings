@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: 180deg 29% 50%;
+    --light-gray-bg: 180deg 52% 96%;
+    --light-gray-filter: 180deg 31% 95%;
+    --dark-gray: 180deg 8% 52%;
+    --very-dark-gray: 180deg 14% 20%;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 100,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
