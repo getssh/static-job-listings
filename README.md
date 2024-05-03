@@ -10,6 +10,9 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
 
+**Live Link**
+<a href="https://static-job-listings-tawny.vercel.app/">Job Listing Live Link</a>
+
 ## The challenge
 
 Your challenge is to build out this job listing page and get it looking as close to the design as possible.
